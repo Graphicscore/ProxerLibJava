@@ -18,7 +18,7 @@ ext {
 
     retrofitVersion = "2.9.0"
     okHttpVersion = "4.9.0"
-    okioVersion = "2.9.0"
+    okioVersion = "2.10.0"
     moshiVersion = "1.11.0"
     moshiLazyAdaptersVersion = "2.2"
 
