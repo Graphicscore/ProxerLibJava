@@ -25,5 +25,5 @@ ext {
     junitVersion = "5.7.0"
     concurrentUnitVersion = "0.4.6"
     kluentVersion = "1.64"
-    mockkVersion = "1.10.3-jdk8"
+    mockkVersion = "1.14.11"
 }
