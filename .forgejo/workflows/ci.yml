@@ -28,15 +28,10 @@ jobs:
         run: ./gradlew ktlintCheck detekt build
 
       - name: Store reports
-        uses: actions/upload-artifact@v2.2.1
+        uses: https://data.forgejo.org/forgejo/upload-artifact@v4
         if: always()
         with:
           name: Reports
           path: library/build/reports
 
-      - name: Upload coverage
-        uses: codecov/codecov-action@v1.1.1
-        env:
-          CI: "true"
-        with:
-          token: ${{ secrets.CODECOV_TOKEN }}
+      # dropped: GitHub-only (codecov/codecov-action) - no Codecov integration for Forgejo
