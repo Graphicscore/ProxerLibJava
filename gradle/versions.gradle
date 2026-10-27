@@ -11,7 +11,7 @@ ext {
     jacocoVersion = "0.8.12"
     ktlintPluginVersion = "9.4.1"
     ktlintVersion = "0.40.0"
-    detektVersion = "1.15.0"
+    detektVersion = "1.23.8"
 
     gradleVersionsPluginVersion = "0.36.0"
     buildConfigPluginVersion = "1.1.8"
