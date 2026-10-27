@@ -6,7 +6,7 @@ ext {
 
     kotlinVersion = "1.9.25"
     kotlinCoroutinesVersion = "1.4.2"
-    dokkaVersion = "1.4.30"
+    dokkaVersion = "1.9.20"
 
     jacocoVersion = "0.8.12"
     ktlintPluginVersion = "9.4.1"
