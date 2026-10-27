@@ -4,11 +4,11 @@ ext {
 
     gradleVersion = "6.7.1"
 
-    kotlinVersion = "1.4.21"
+    kotlinVersion = "1.9.25"
     kotlinCoroutinesVersion = "1.4.2"
     dokkaVersion = "1.4.30"
 
-    jacocoVersion = "0.8.6"
+    jacocoVersion = "0.8.12"
     ktlintPluginVersion = "9.4.1"
     ktlintVersion = "0.40.0"
     detektVersion = "1.15.0"
@@ -19,7 +19,7 @@ ext {
     retrofitVersion = "2.9.0"
     okHttpVersion = "4.9.0"
     okioVersion = "2.10.0"
-    moshiVersion = "1.11.0"
+    moshiVersion = "1.15.2"
     moshiLazyAdaptersVersion = "2.2"
 
     junitVersion = "5.14.4"
