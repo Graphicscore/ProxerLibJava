@@ -6,7 +6,7 @@ ext {
 
     kotlinVersion = "1.9.25"
     kotlinCoroutinesVersion = "1.4.2"
-    dokkaVersion = "1.4.20"
+    dokkaVersion = "1.4.30"
 
     jacocoVersion = "0.8.6"
     ktlintPluginVersion = "9.4.1"
@@ -18,12 +18,12 @@ ext {
 
     retrofitVersion = "2.9.0"
     okHttpVersion = "4.9.0"
-    okioVersion = "2.9.0"
+    okioVersion = "2.10.0"
     moshiVersion = "1.11.0"
     moshiLazyAdaptersVersion = "2.2"
 
     junitVersion = "5.7.0"
     concurrentUnitVersion = "0.4.6"
-    kluentVersion = "1.64"
+    kluentVersion = "1.73"
     mockkVersion = "1.10.3-jdk8"
 }
