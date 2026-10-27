@@ -19,7 +19,7 @@ jobs:
           java-version: 1.8
 
       - name: Set up Gradle Cache
-        uses: actions/cache@v2.1.3
+        uses: actions/cache@v2.1.8
         with:
           path: ~/.gradle
           key: ${{ runner.OS }}-gradle-
